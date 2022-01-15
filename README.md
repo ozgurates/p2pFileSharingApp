@@ -1,6 +1,6 @@
 # p2pFileSharingApp
 
-School Project simple p2pFileSharingApplication
+Simple p2pFileSharingApplication
 1.Run Content_Discovery.py
 2.Announce your chunks using Announcer.py
 3.Open Server.py
